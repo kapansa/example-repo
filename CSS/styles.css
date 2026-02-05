@@ -1,4 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 h1 {
   font-size: 100px;
-  color: blue;
+  color: white;
+  background-color: blue;
+  text-align: center;
+  padding: 40px;
 }
